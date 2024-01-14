@@ -1,0 +1,9 @@
+flask==2.2.5 
+connexion==2.14.2
+sqlalchemy==1.4.50
+flask-sqlalchemy
+redis
+gevent
+gunicorn
+debugpy
+marshmallow
