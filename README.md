@@ -8,7 +8,6 @@ This repo is a boilerplate of organized flask project which a directory structur
 
 - Flask==2.2.5
 - SQLAlchemy==1.4.50
-- Flask-SQLAlchemy
 - connexion==2.14.0
 - gunicorn
 - marshmallow
