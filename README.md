@@ -21,7 +21,7 @@ Method1 - Using regular python command
 
 Method2 - Using flask command
 
->FLASK_APP=run; flask run -p <port> -h <host>
+>FLASK_APP=run; flask run -p \<port\> -h \<host\>
 
 Method3 - Using gunicorn
 
