@@ -11,17 +11,18 @@ This repo is a boilerplate of organized flask project which a directory structur
 - Flask-SQLAlchemy
 - connexion==2.14.0
 - gunicorn
+- marshmallow
 
 ### Running
 
->Method1 - Using regular python command  
+Method1 - Using regular python command  
 
-python run.py
+>python run.py
 
->Method2 - Using flask command
+Method2 - Using flask command
 
-FLASK_APP=run; flask run
+>FLASK_APP=run; flask run -p <port> -h <host>
 
->Method3 - Using gunicorn
+Method3 - Using gunicorn
 
-./flask_boilerplate_starter_gunicorn.sh
+>./flask_boilerplate_starter_gunicorn.sh
